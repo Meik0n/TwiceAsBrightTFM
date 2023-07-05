@@ -1,0 +1,4 @@
+repository "TFM_TheCore@Meik0n@cloud"
+  path "/"
+    br "/main"
+    co "/main"
